@@ -42,9 +42,6 @@ This repository contains a full penetration testing assessment conducted in a co
 * Privilege escalation via PATH hijacking
 
 
-## 📄 Report
-
-[Download Full Report](./Report/westwild-report.pdf)
 
 ## ⚠️ Disclaimer
 
