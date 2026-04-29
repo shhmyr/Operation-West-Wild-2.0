@@ -41,13 +41,10 @@ This repository contains a full penetration testing assessment conducted in a co
 * Vulnerable CMS plugin leading to remote code execution
 * Privilege escalation via PATH hijacking
 
-## 📸 Preview
-
-![Recon](./screenshots/recon.png)
 
 ## 📄 Report
 
-[Download Full Report](./report/westwild-report.pdf)
+[Download Full Report](./Report/westwild-report.pdf)
 
 ## ⚠️ Disclaimer
 
